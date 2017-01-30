@@ -1,4 +1,4 @@
 ---
-word: ClientOne
+word: Hi
 server:
   port: ${PORT:${SERVER_PORT:0}}
